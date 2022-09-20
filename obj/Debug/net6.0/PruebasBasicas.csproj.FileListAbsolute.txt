@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PruebasBasicas\bin\Debug\net6.0\PruebasBasicas.exe
+C:\Users\HP\source\repos\PruebasBasicas\bin\Debug\net6.0\PruebasBasicas.deps.json
+C:\Users\HP\source\repos\PruebasBasicas\bin\Debug\net6.0\PruebasBasicas.runtimeconfig.json
+C:\Users\HP\source\repos\PruebasBasicas\bin\Debug\net6.0\PruebasBasicas.dll
+C:\Users\HP\source\repos\PruebasBasicas\bin\Debug\net6.0\PruebasBasicas.pdb
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.AssemblyInfo.cs
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.dll
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\refint\PruebasBasicas.dll
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.pdb
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\PruebasBasicas.genruntimeconfig.cache
+C:\Users\HP\source\repos\PruebasBasicas\obj\Debug\net6.0\ref\PruebasBasicas.dll

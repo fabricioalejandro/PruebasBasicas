@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/NumeroPrimo/NumeroPrimo.csproj",
+                "${workspaceFolder}/PruebasBasicas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/NumeroPrimo/NumeroPrimo.csproj",
+                "${workspaceFolder}/PruebasBasicas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/NumeroPrimo/NumeroPrimo.csproj"
+                "${workspaceFolder}/PruebasBasicas.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
